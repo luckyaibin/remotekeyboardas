@@ -1,8 +1,7 @@
 net/wimpi/telnetd/io/terminal/ColorHelper.java
  net.wimpi.telnetd.io.terminal.ColorHelper
-net/wimpi/telnetd/io/TelnetIO.java
- net.wimpi.telnetd.io.TelnetIO
- net.wimpi.telnetd.io.TelnetIO$IACHandler
+net/wimpi/telnetd/shell/ShellManager.java
+ net.wimpi.telnetd.shell.ShellManager
 net/wimpi/telnetd/io/toolkit/Label.java
  net.wimpi.telnetd.io.toolkit.Label
 net/wimpi/telnetd/io/toolkit/Editline.java
@@ -22,8 +21,8 @@ net/wimpi/telnetd/io/toolkit/Component.java
  net.wimpi.telnetd.io.toolkit.Component
 net/wimpi/telnetd/io/toolkit/BufferOverflowException.java
  net.wimpi.telnetd.io.toolkit.BufferOverflowException
-net/wimpi/telnetd/io/toolkit/Editarea.java
- net.wimpi.telnetd.io.toolkit.Editarea
+net/wimpi/telnetd/TelnetD.java
+ net.wimpi.telnetd.TelnetD
 net/wimpi/telnetd/io/terminal/xterm.java
  net.wimpi.telnetd.io.terminal.xterm
 de/onyxbits/remotekeyboard/Decoder.java
@@ -62,8 +61,8 @@ net/wimpi/telnetd/io/toolkit/Statusbar.java
  net.wimpi.telnetd.io.toolkit.Statusbar
 de/onyxbits/remotekeyboard/RemoteKeyboardService.java
  de.onyxbits.remotekeyboard.RemoteKeyboardService
-de/onyxbits/remotekeyboard/WidgetActivity.java
- de.onyxbits.remotekeyboard.WidgetActivity
+net/wimpi/telnetd/net/Connection.java
+ net.wimpi.telnetd.net.Connection
 net/wimpi/telnetd/net/ConnectionListener.java
  net.wimpi.telnetd.net.ConnectionListener
 net/wimpi/telnetd/io/toolkit/Editfield.java
@@ -133,9 +132,10 @@ net/wimpi/telnetd/io/BasicTerminalIO.java
  net.wimpi.telnetd.io.BasicTerminalIO
 net/wimpi/telnetd/io/terminal/Windoof.java
  net.wimpi.telnetd.io.terminal.Windoof
-net/wimpi/telnetd/shell/ShellManager.java
- net.wimpi.telnetd.shell.ShellManager
-net/wimpi/telnetd/net/Connection.java
- net.wimpi.telnetd.net.Connection
-net/wimpi/telnetd/TelnetD.java
- net.wimpi.telnetd.TelnetD
+net/wimpi/telnetd/io/toolkit/Editarea.java
+ net.wimpi.telnetd.io.toolkit.Editarea
+de/onyxbits/remotekeyboard/WidgetActivity.java
+ de.onyxbits.remotekeyboard.WidgetActivity
+net/wimpi/telnetd/io/TelnetIO.java
+ net.wimpi.telnetd.io.TelnetIO
+ net.wimpi.telnetd.io.TelnetIO$IACHandler
