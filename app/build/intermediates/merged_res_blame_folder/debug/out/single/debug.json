@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_disconnect.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_disconnect.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\xml_keyboarddef.xml.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\xml\\keyboarddef.xml"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\layout_quicklauncheritem.xml.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\layout\\quicklauncheritem.xml"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v11_ic_stat_service.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-xhdpi-v11\\ic_stat_service.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_trash.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-mdpi\\ic_action_trash.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_add.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-hdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\layout_entry.xml.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\layout\\entry.xml"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_settings.xml.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\xml\\pref_settings.xml"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_trash.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_trash.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_transfer.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_transfer.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_selectime.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-mdpi\\ic_action_selectime.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_transfer.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-hdpi\\ic_action_transfer.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_add.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-mdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_settings.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_add.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_settings.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-hdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\layout_replacements_list.xml.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\layout\\replacements_list.xml"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\layout_widget.xml.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\layout\\widget.xml"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\xml_widget.xml.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\xml\\widget.xml"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_trash.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-hdpi\\ic_action_trash.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\xml_method.xml.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\xml\\method.xml"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_transfer.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-mdpi\\ic_action_transfer.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_widget.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-mdpi\\ic_widget.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_g5997.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-xhdpi\\g5997.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_disconnect.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-mdpi\\ic_action_disconnect.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_disconnect.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-hdpi\\ic_action_disconnect.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_selectime.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_selectime.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_widget.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_quicklauncher.xml.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\layout\\activity_quicklauncher.xml"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\menu_replacements_list.xml.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\menu\\replacements_list.xml"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v11_ic_stat_service.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-hdpi-v11\\ic_stat_service.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_settings.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-mdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v11_ic_stat_service.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-mdpi-v11\\ic_stat_service.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\menu_replacement.xml.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\menu\\replacement.xml"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_selectime.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-hdpi\\ic_action_selectime.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_replacement.xml.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\layout\\activity_replacement.xml"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_widget.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-hdpi\\ic_widget.png"
+    },
+    {
+        "merged": "D:\\exp\\remotekeyboardas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_widget.png.flat",
+        "source": "D:\\exp\\remotekeyboardas\\app\\src\\main\\res\\drawable-xxhdpi\\ic_widget.png"
+    }
+]

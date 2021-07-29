@@ -1,0 +1,4 @@
+#Thu Jul 29 15:26:41 CST 2021
+base.0=D\:\\exp\\remotekeyboardas\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

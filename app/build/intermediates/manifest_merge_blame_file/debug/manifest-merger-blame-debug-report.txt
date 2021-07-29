@@ -1,0 +1,182 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="de.onyxbits.remotekeyboard"
+4    android:versionCode="8"
+5    android:versionName="1.7" >
+6
+7    <uses-sdk
+7-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:8:2-14
+8        android:minSdkVersion="14"
+8-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:8:2-14
+9        android:targetSdkVersion="26" />
+9-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:8:2-14
+10
+11    <uses-permission android:name="android.permission.BIND_INPUT_METHOD" />
+11-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:10:2-12:41
+11-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:11:3-54
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:13:2-64
+12-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:13:19-61
+13    <uses-permission android:name="android.permission.WAKE_LOCK" />
+13-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:14:2-65
+13-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:14:19-62
+14    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+14-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:15:2-73
+14-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:15:19-70
+15
+16    <application
+16-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:17:2-95:16
+17        android:allowBackup="true"
+17-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:18:3-29
+18        android:debuggable="true"
+19        android:icon="@drawable/ic_launcher"
+19-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:19:3-39
+20        android:label="@string/app_name"
+20-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:20:3-35
+21        android:theme="@style/AppTheme" >
+21-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:21:3-34
+22        <service
+22-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:22:3-32:13
+23            android:name="de.onyxbits.remotekeyboard.RemoteKeyboardService"
+23-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:23:4-67
+24            android:permission="android.permission.BIND_INPUT_METHOD" >
+24-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:24:4-61
+25            <intent-filter>
+25-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:25:4-27:20
+26                <action android:name="android.view.InputMethod" />
+26-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:26:5-55
+26-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:26:13-52
+27            </intent-filter>
+28
+29            <meta-data
+29-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:29:4-31:38
+30                android:name="android.view.im"
+30-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:30:5-35
+31                android:resource="@xml/method" />
+31-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:31:5-35
+32        </service>
+33
+34        <activity
+34-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:34:3-49:14
+35            android:name="de.onyxbits.remotekeyboard.MainActivity"
+35-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:35:4-58
+36            android:label="@string/app_name" >
+36-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:36:4-36
+37            <intent-filter>
+37-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:37:4-41:20
+38                <action android:name="android.intent.action.MAIN" />
+38-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:38:5-57
+38-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:38:13-54
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:40:5-65
+40-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:40:15-62
+41            </intent-filter>
+42            <intent-filter>
+42-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:42:4-48:20
+43                <action android:name="android.intent.action.SEND" />
+43-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:43:5-57
+43-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:43:13-54
+44
+45                <category android:name="android.intent.category.DEFAULT" />
+45-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:45:5-64
+45-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:45:15-61
+46
+47                <data android:mimeType="text/*" />
+47-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:47:5-39
+47-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:47:11-36
+48            </intent-filter>
+49        </activity>
+50        <activity
+50-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:50:3-59:14
+51            android:name="de.onyxbits.remotekeyboard.WidgetActivity"
+51-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:51:4-60
+52            android:excludeFromRecents="true"
+52-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:52:4-37
+53            android:label="@string/app_name"
+53-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:53:4-36
+54            android:noHistory="true"
+54-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:54:4-28
+55            android:theme="@android:style/Theme.NoDisplay" >
+55-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:55:4-50
+56            <intent-filter>
+56-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:56:4-58:20
+57                <action android:name="android.intent.action.MAIN" />
+57-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:38:5-57
+57-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:38:13-54
+58            </intent-filter>
+59        </activity>
+60
+61        <receiver android:name="de.onyxbits.remotekeyboard.WidgetProvider" >
+61-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:61:3-69:14
+61-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:61:13-69
+62            <intent-filter>
+62-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:62:4-64:20
+63                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+63-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:63:5-72
+63-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:63:13-69
+64            </intent-filter>
+65
+66            <meta-data
+66-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:66:4-68:38
+67                android:name="android.appwidget.provider"
+67-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:67:5-46
+68                android:resource="@xml/widget" />
+68-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:68:5-35
+69        </receiver>
+70
+71        <activity
+71-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:71:3-78:14
+72            android:name="de.onyxbits.remotekeyboard.ReplacementsListActivity"
+72-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:72:4-70
+73            android:label="@string/title_activity_replacements_list"
+73-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:73:4-60
+74            android:parentActivityName="de.onyxbits.remotekeyboard.MainActivity" >
+74-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:74:4-72
+75            <meta-data
+75-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:75:4-77:63
+76                android:name="android.support.PARENT_ACTIVITY"
+76-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:76:5-51
+77                android:value="de.onyxbits.remotekeyboard.MainActivity" />
+77-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:77:5-60
+78        </activity>
+79        <activity
+79-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:79:3-86:14
+80            android:name="de.onyxbits.remotekeyboard.ReplacementActivity"
+80-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:80:4-65
+81            android:label="@string/title_activity_replacement"
+81-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:81:4-54
+82            android:parentActivityName="de.onyxbits.remotekeyboard.ReplacementsListActivity" >
+82-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:82:4-84
+83            <meta-data
+83-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:75:4-77:63
+84                android:name="android.support.PARENT_ACTIVITY"
+84-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:76:5-51
+85                android:value="de.onyxbits.remotekeyboard.ReplacementsListActivity" />
+85-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:77:5-60
+86        </activity>
+87        <activity
+87-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:87:3-94:14
+88            android:name="de.onyxbits.remotekeyboard.SettingsActivity"
+88-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:88:4-62
+89            android:label="@string/title_activity_settings"
+89-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:89:4-51
+90            android:parentActivityName="de.onyxbits.remotekeyboard.MainActivity" >
+90-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:90:4-72
+91            <meta-data
+91-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:75:4-77:63
+92                android:name="android.support.PARENT_ACTIVITY"
+92-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:76:5-51
+93                android:value="de.onyxbits.remotekeyboard.MainActivity" />
+93-->D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:77:5-60
+94        </activity>
+95
+96        <meta-data
+96-->[android.arch.lifecycle:runtime:1.0.0] D:\android\gradlepro\caches\transforms-2\files-2.1\21cf4f1d4d840538ca8b92e631e77d8d\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+97            android:name="android.arch.lifecycle.VERSION"
+97-->[android.arch.lifecycle:runtime:1.0.0] D:\android\gradlepro\caches\transforms-2\files-2.1\21cf4f1d4d840538ca8b92e631e77d8d\runtime-1.0.0\AndroidManifest.xml:26:13-58
+98            android:value="27.0.0-SNAPSHOT" />
+98-->[android.arch.lifecycle:runtime:1.0.0] D:\android\gradlepro\caches\transforms-2\files-2.1\21cf4f1d4d840538ca8b92e631e77d8d\runtime-1.0.0\AndroidManifest.xml:27:13-44
+99    </application>
+100
+101</manifest>

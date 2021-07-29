@@ -1,0 +1,189 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:2:1-97:12
+MERGED from [com.android.support:support-compat:27.0.0] D:\android\gradlepro\caches\transforms-2\files-2.1\4697cc1249027b318780b1fc1a9a3024\support-compat-27.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] D:\android\gradlepro\caches\transforms-2\files-2.1\21cf4f1d4d840538ca8b92e631e77d8d\runtime-1.0.0\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:2:1-97:12
+	package
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:4:2-38
+		INJECTED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml
+		INJECTED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:6:2-27
+		INJECTED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml
+		INJECTED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:3:2-48
+	xmlns:android
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:5:2-25
+		INJECTED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml
+		INJECTED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:8:2-14
+INJECTED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:8:2-14
+INJECTED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:8:2-14
+MERGED from [com.android.support:support-compat:27.0.0] D:\android\gradlepro\caches\transforms-2\files-2.1\4697cc1249027b318780b1fc1a9a3024\support-compat-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] D:\android\gradlepro\caches\transforms-2\files-2.1\4697cc1249027b318780b1fc1a9a3024\support-compat-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] D:\android\gradlepro\caches\transforms-2\files-2.1\21cf4f1d4d840538ca8b92e631e77d8d\runtime-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] D:\android\gradlepro\caches\transforms-2\files-2.1\21cf4f1d4d840538ca8b92e631e77d8d\runtime-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:8:2-14
+INJECTED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:8:2-14
+	android:targetSdkVersion
+		INJECTED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:8:2-14
+		INJECTED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:8:2-14
+		INJECTED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BIND_INPUT_METHOD
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:10:2-12:41
+	tools:ignore
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:12:3-38
+	android:name
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:11:3-54
+uses-permission#android.permission.INTERNET
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:13:2-64
+	android:name
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:13:19-61
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:14:2-65
+	android:name
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:14:19-62
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:15:2-73
+	android:name
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:15:19-70
+application
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:17:2-95:16
+MERGED from [android.arch.lifecycle:runtime:1.0.0] D:\android\gradlepro\caches\transforms-2\files-2.1\21cf4f1d4d840538ca8b92e631e77d8d\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] D:\android\gradlepro\caches\transforms-2\files-2.1\21cf4f1d4d840538ca8b92e631e77d8d\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:20:3-35
+	android:icon
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:19:3-39
+	android:allowBackup
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:18:3-29
+	android:theme
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:21:3-34
+service#de.onyxbits.remotekeyboard.RemoteKeyboardService
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:22:3-32:13
+	android:permission
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:24:4-61
+	android:name
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:23:4-67
+intent-filter#action:name:android.view.InputMethod
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:25:4-27:20
+action#android.view.InputMethod
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:26:5-55
+	android:name
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:26:13-52
+meta-data#android.view.im
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:29:4-31:38
+	android:resource
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:31:5-35
+	android:name
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:30:5-35
+activity#de.onyxbits.remotekeyboard.MainActivity
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:34:3-49:14
+	android:label
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:36:4-36
+	android:name
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:35:4-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:37:4-41:20
+action#android.intent.action.MAIN
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:38:5-57
+	android:name
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:38:13-54
+category#android.intent.category.LAUNCHER
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:40:5-65
+	android:name
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:40:15-62
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/*
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:42:4-48:20
+action#android.intent.action.SEND
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:43:5-57
+	android:name
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:43:13-54
+category#android.intent.category.DEFAULT
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:45:5-64
+	android:name
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:45:15-61
+data
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:47:5-39
+	android:mimeType
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:47:11-36
+activity#de.onyxbits.remotekeyboard.WidgetActivity
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:50:3-59:14
+	android:label
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:53:4-36
+	android:excludeFromRecents
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:52:4-37
+	android:noHistory
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:54:4-28
+	android:theme
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:55:4-50
+	android:name
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:51:4-60
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:56:4-58:20
+receiver#de.onyxbits.remotekeyboard.WidgetProvider
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:61:3-69:14
+	android:name
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:61:13-69
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:62:4-64:20
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:63:5-72
+	android:name
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:63:13-69
+meta-data#android.appwidget.provider
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:66:4-68:38
+	android:resource
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:68:5-35
+	android:name
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:67:5-46
+activity#de.onyxbits.remotekeyboard.ReplacementsListActivity
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:71:3-78:14
+	android:parentActivityName
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:74:4-72
+	android:label
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:73:4-60
+	android:name
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:72:4-70
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:75:4-77:63
+	android:value
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:77:5-60
+	android:name
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:76:5-51
+activity#de.onyxbits.remotekeyboard.ReplacementActivity
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:79:3-86:14
+	android:parentActivityName
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:82:4-84
+	android:label
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:81:4-54
+	android:name
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:80:4-65
+activity#de.onyxbits.remotekeyboard.SettingsActivity
+ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:87:3-94:14
+	android:parentActivityName
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:90:4-72
+	android:label
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:89:4-51
+	android:name
+		ADDED from D:\exp\remotekeyboardas\app\src\main\AndroidManifest.xml:88:4-62
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] D:\android\gradlepro\caches\transforms-2\files-2.1\21cf4f1d4d840538ca8b92e631e77d8d\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] D:\android\gradlepro\caches\transforms-2\files-2.1\21cf4f1d4d840538ca8b92e631e77d8d\runtime-1.0.0\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] D:\android\gradlepro\caches\transforms-2\files-2.1\21cf4f1d4d840538ca8b92e631e77d8d\runtime-1.0.0\AndroidManifest.xml:26:13-58
