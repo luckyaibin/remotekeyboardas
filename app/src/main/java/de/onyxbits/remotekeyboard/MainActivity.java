@@ -1,23 +1,23 @@
 package de.onyxbits.remotekeyboard;
 
-import java.util.Iterator;
-import java.util.List;
-
-import android.net.Uri;
-import android.net.wifi.WifiInfo;
-import android.net.wifi.WifiManager;
-import android.os.Bundle;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.net.Uri;
+import android.net.wifi.WifiInfo;
+import android.net.wifi.WifiManager;
+import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.inputmethod.InputMethodInfo;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import java.util.Iterator;
+import java.util.List;
 
 public class MainActivity extends Activity implements
 		DialogInterface.OnClickListener {
@@ -37,7 +37,9 @@ public class MainActivity extends Activity implements
 
 		// FIXME: This is anything but pretty! Apparently someone at Google thinks
 		// that WLAN is ipv4 only.
-		WifiManager wifiManager = (WifiManager) getSystemService(WIFI_SERVICE);
+		//WifiManager wifiManager = (WifiManager) getSystemService(WIFI_SERVICE);
+		WifiManager wifiManager = (WifiManager) getApplicationContext().getSystemService(WIFI_SERVICE);
+
 		WifiInfo wifiInfo = wifiManager.getConnectionInfo();
 		int addr = wifiInfo.getIpAddress();
 		String ip = (addr & 0xFF) + "." + ((addr >> 8) & 0xFF) + "."
